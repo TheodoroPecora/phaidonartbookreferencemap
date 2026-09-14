@@ -1,8 +1,7 @@
 WEBSITE: https://theodoropecora.github.io/phaidonartbookreferencemap/
 
 BUILT UPON THE SIGMAEXPORTER PLUGIN FOR GEPHI:
-______________________________________________________________________________________________________________________________________________________________________
-
+_________________________________________________________________________________________________________________________
 Template provided by InteractiveVis project
 http://blogs.oii.ox.ac.uk/vis/
 https://github.com/oxfordinternetinstitute/InteractiveVis/
